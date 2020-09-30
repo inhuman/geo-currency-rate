@@ -1,0 +1,5 @@
+{
+  "currency_rate_api": "http://www.cbr.ru/scripts/XML_daily.asp",
+  "radius": 12.3,
+  "currency_code": "USD"
+}
